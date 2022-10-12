@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="logo">res/logo.svg</file>
+    </qresource>
+    <qresource prefix="/changelog">
+        <file alias="log">changelog.txt</file>
+    </qresource>
+    <qresource prefix="/lang">
+        <file alias="ru">Lang_ru.qm</file>
+        <file alias="en">Lang_en.qm</file>
+    </qresource>
+</RCC>
