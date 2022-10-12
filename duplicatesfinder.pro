@@ -55,12 +55,12 @@ RESOURCES += \
     res.qrc
 
 
-VERSION_PE_HEADER = 1.6.1
+VERSION_PE_HEADER = 1.6.2
 
-win32:VERSION = 1.6.1 # major.minor.patch.build
-else:VERSION = 1.6.1    # major.minor.patch
+win32:VERSION = 1.6.2 # major.minor.patch.build
+else:VERSION = 1.6.2    # major.minor.patch
 
-DEFINES += APP_VERSION='"\\\"1.6.1\\\""'
+DEFINES += APP_VERSION='"\\\"1.6.2\\\""'
 
 DISTFILES += \
     duplicatesfinder.rc
