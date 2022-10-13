@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/icon">
-        <file alias="logo">logo.svg</file>
+        <file alias="logo">duplicatesfinder.svg</file>
     </qresource>
     <qresource prefix="/changelog">
         <file alias="log">changelog.txt</file>

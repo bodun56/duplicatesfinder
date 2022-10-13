@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Duplicates Finder
+GenericName=Duplicates Finder
+Icon=duplicatesfinder
+Comment=Find duplicates files
+Comment[ru]=Поиск дубликатов файлов
+Exec=duplicatesfinder
+Terminal=false
+Type=Application
+Categories=Utility;FileTools;
