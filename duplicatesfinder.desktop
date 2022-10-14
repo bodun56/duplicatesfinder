@@ -1,7 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Duplicates Finder
+Name[ru]=Поиск дубликатов файлов
 GenericName=Duplicates Finder
+GenericName[ru]=Поиск дубликатов файлов
 Icon=duplicatesfinder
 Comment=Find duplicates files
 Comment[ru]=Поиск дубликатов файлов

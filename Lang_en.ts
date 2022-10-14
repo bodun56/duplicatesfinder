@@ -89,7 +89,7 @@
     </message>
     <message>
         <location filename="mainwindow.ui" line="195"/>
-        <location filename="mainwindow.cpp" line="46"/>
+        <location filename="mainwindow.cpp" line="44"/>
         <source>Delete selected files</source>
         <translation type="unfinished"></translation>
     </message>
@@ -174,322 +174,322 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="44"/>
+        <location filename="mainwindow.cpp" line="42"/>
         <source>Select path to search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="45"/>
-        <location filename="mainwindow.cpp" line="147"/>
-        <location filename="mainwindow.cpp" line="165"/>
-        <location filename="mainwindow.cpp" line="712"/>
+        <location filename="mainwindow.cpp" line="43"/>
+        <location filename="mainwindow.cpp" line="144"/>
+        <location filename="mainwindow.cpp" line="161"/>
+        <location filename="mainwindow.cpp" line="707"/>
         <source>Search duplicates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="47"/>
+        <location filename="mainwindow.cpp" line="45"/>
         <source>Mask files, separate space key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="48"/>
+        <location filename="mainwindow.cpp" line="46"/>
         <source>Exclude file in mask</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="49"/>
+        <location filename="mainwindow.cpp" line="47"/>
         <source>Type files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="51"/>
+        <location filename="mainwindow.cpp" line="49"/>
         <source>Example: .jpg .png</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="690"/>
+        <location filename="mainwindow.cpp" line="685"/>
         <source>All files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="691"/>
+        <location filename="mainwindow.cpp" line="686"/>
         <source>Images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="692"/>
+        <location filename="mainwindow.cpp" line="687"/>
         <source>Video</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="693"/>
+        <location filename="mainwindow.cpp" line="688"/>
         <source>Audio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="79"/>
-        <location filename="mainwindow.cpp" line="81"/>
+        <location filename="mainwindow.cpp" line="76"/>
+        <location filename="mainwindow.cpp" line="78"/>
         <source>Search to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="84"/>
+        <location filename="mainwindow.cpp" line="81"/>
         <source>Search in: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="93"/>
+        <location filename="mainwindow.cpp" line="90"/>
         <source>Need mask files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="101"/>
+        <location filename="mainwindow.cpp" line="98"/>
         <source>Start</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="135"/>
+        <location filename="mainwindow.cpp" line="132"/>
         <source>Stop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="146"/>
-        <location filename="mainwindow.cpp" line="164"/>
-        <location filename="mainwindow.cpp" line="711"/>
+        <location filename="mainwindow.cpp" line="143"/>
+        <location filename="mainwindow.cpp" line="160"/>
+        <location filename="mainwindow.cpp" line="706"/>
         <source>Search files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="149"/>
-        <location filename="mainwindow.cpp" line="170"/>
+        <location filename="mainwindow.cpp" line="146"/>
+        <location filename="mainwindow.cpp" line="166"/>
         <source>Stopped</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="172"/>
+        <location filename="mainwindow.cpp" line="168"/>
         <source>Stopped. Fined files: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="173"/>
+        <location filename="mainwindow.cpp" line="169"/>
         <source>Stopped. Fined duplicates: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="177"/>
+        <location filename="mainwindow.cpp" line="173"/>
         <source>Files not fined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="178"/>
+        <location filename="mainwindow.cpp" line="174"/>
         <source>Duplicates not fined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="181"/>
+        <location filename="mainwindow.cpp" line="177"/>
         <source>Finished. Fined files: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="182"/>
+        <location filename="mainwindow.cpp" line="178"/>
         <source>Finished. Fined duplicates: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="238"/>
+        <location filename="mainwindow.cpp" line="234"/>
         <source>Fined files: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="239"/>
+        <location filename="mainwindow.cpp" line="235"/>
         <source>Fined duplicates: </source>
         <oldsource>Fiden duplicates: </oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="245"/>
-        <location filename="mainwindow.cpp" line="567"/>
-        <location filename="mainwindow.cpp" line="634"/>
+        <location filename="mainwindow.cpp" line="241"/>
+        <location filename="mainwindow.cpp" line="563"/>
+        <location filename="mainwindow.cpp" line="629"/>
         <source>Processed files: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="245"/>
+        <location filename="mainwindow.cpp" line="241"/>
         <source> from </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="352"/>
+        <location filename="mainwindow.cpp" line="346"/>
         <source>Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="406"/>
+        <location filename="mainwindow.cpp" line="400"/>
         <source>Text csv (*.csv);;Text file (*.txt)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="414"/>
-        <location filename="mainwindow.cpp" line="417"/>
+        <location filename="mainwindow.cpp" line="408"/>
+        <location filename="mainwindow.cpp" line="411"/>
         <source>Text csv (*.csv)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="414"/>
+        <location filename="mainwindow.cpp" line="408"/>
         <source>Path ;	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="414"/>
+        <location filename="mainwindow.cpp" line="408"/>
         <source>File name ;	 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="414"/>
+        <location filename="mainwindow.cpp" line="408"/>
         <source>Size ;	 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="414"/>
+        <location filename="mainwindow.cpp" line="408"/>
         <source>Date ;	 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="17"/>
-        <location filename="mainwindow.cpp" line="66"/>
-        <location filename="mainwindow.cpp" line="414"/>
-        <location filename="mainwindow.cpp" line="685"/>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="408"/>
+        <location filename="mainwindow.cpp" line="680"/>
         <source>Hash</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="418"/>
+        <location filename="mainwindow.cpp" line="412"/>
         <source>Text file (*.txt)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="449"/>
+        <location filename="mainwindow.cpp" line="443"/>
         <source>Do not use this symbol: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="504"/>
+        <location filename="mainwindow.cpp" line="500"/>
         <source>Preparation: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="520"/>
+        <location filename="mainwindow.cpp" line="516"/>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="521"/>
+        <location filename="mainwindow.cpp" line="517"/>
         <source>Program version: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="522"/>
+        <location filename="mainwindow.cpp" line="518"/>
         <source>A simple duplicate file search program for Linux and Windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="523"/>
+        <location filename="mainwindow.cpp" line="519"/>
         <source>Author: BoDun &lt; bodun56@ya.ru &gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="536"/>
-        <location filename="mainwindow.cpp" line="589"/>
+        <location filename="mainwindow.cpp" line="532"/>
+        <location filename="mainwindow.cpp" line="584"/>
         <source>Attention</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="537"/>
+        <location filename="mainwindow.cpp" line="533"/>
         <source>Files to delete are marked: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="537"/>
+        <location filename="mainwindow.cpp" line="533"/>
         <source>Delete them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="561"/>
+        <location filename="mainwindow.cpp" line="557"/>
         <source>(deleted) </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="564"/>
+        <location filename="mainwindow.cpp" line="560"/>
         <source>Deleted files: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="584"/>
+        <location filename="mainwindow.cpp" line="579"/>
         <source>Where to transfer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="590"/>
+        <location filename="mainwindow.cpp" line="585"/>
         <source>Files to move are marked: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="590"/>
+        <location filename="mainwindow.cpp" line="585"/>
         <source>Moving them to </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="628"/>
+        <location filename="mainwindow.cpp" line="623"/>
         <source>(Moved) </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="631"/>
+        <location filename="mainwindow.cpp" line="626"/>
         <source>Moved files: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="404"/>
+        <location filename="mainwindow.cpp" line="398"/>
         <source>Save File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="521"/>
+        <location filename="mainwindow.cpp" line="517"/>
         <source>Duplicate Finder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="17"/>
-        <location filename="mainwindow.cpp" line="66"/>
-        <location filename="mainwindow.cpp" line="685"/>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="680"/>
         <source>File path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="17"/>
-        <location filename="mainwindow.cpp" line="66"/>
-        <location filename="mainwindow.cpp" line="685"/>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="680"/>
         <source>File name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="17"/>
-        <location filename="mainwindow.cpp" line="66"/>
-        <location filename="mainwindow.cpp" line="685"/>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="680"/>
         <source>Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="17"/>
-        <location filename="mainwindow.cpp" line="66"/>
-        <location filename="mainwindow.cpp" line="685"/>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="680"/>
         <source>Date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="17"/>
-        <location filename="mainwindow.cpp" line="66"/>
-        <location filename="mainwindow.cpp" line="685"/>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="680"/>
         <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
