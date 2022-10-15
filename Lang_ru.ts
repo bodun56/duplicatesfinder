@@ -249,7 +249,7 @@
     <message>
         <location filename="mainwindow.cpp" line="98"/>
         <source>Start</source>
-        <translation>Старт</translation>
+        <translation>Запущен поиск</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="132"/>

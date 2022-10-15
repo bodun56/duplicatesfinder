@@ -96,6 +96,7 @@ void MainWindow::on_pbStartFind_clicked()
         lblTimer.setText(QDateTime::fromTime_t(dateTimeStart.secsTo(QDateTime::currentDateTime())).toUTC().toString(format));
         timer.start();
         lblStatus.setText(tr("Start"));
+        lblCurrentFile.clear();
         progressBar.setValue(0);
         colorBool = false;
 
@@ -135,6 +136,7 @@ void MainWindow::on_pbStartFind_clicked()
         userStopped = false;
     }else{
         timer.stop();
+        thread->exit();
         if(df != NULL){
             if(df->getRunning()){
                 df->setRunning(false);
@@ -183,9 +185,6 @@ void MainWindow::onDuplicatesFinished()
 
     timer.stop();
     thread->exit();
-
-    QFile f("data.db");
-    if(f.exists()) f.remove();
 }
 
 void MainWindow::on_tableWidget_itemClicked(QTableWidgetItem *item)

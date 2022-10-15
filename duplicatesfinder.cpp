@@ -14,7 +14,6 @@ DuplicatesFinder::~DuplicatesFinder()
 
 void DuplicatesFinder::setRunning(bool p_running) {
     running = p_running;
-    db.dbRemove();
 }
 
 void DuplicatesFinder::setMaskFiles(QStringList mask)
@@ -73,7 +72,6 @@ void DuplicatesFinder::checkingFilesStartStandart()
         emit onAllFiles(list.count());
         checkingFiles(list);
     }else{
-        db.dbRemove();
         emit finished();
     }
 }
@@ -108,7 +106,6 @@ void DuplicatesFinder::checkingFilesStartOnExclude()
         emit onAllFiles(listAll.count());
         checkingFiles(listAll);
     }else{
-        db.dbRemove();
         emit finished();
     }
 }
@@ -139,7 +136,6 @@ void DuplicatesFinder::checkingFilesStartOnOnlyFiles()
         emit onAllFiles(list.count());
         checkingFiles(list);
     }else{
-        db.dbRemove();
         emit finished();
     }
 }
@@ -154,7 +150,6 @@ void DuplicatesFinder::checkingFiles(QStringList list)
 
         counterAllFiles++;
         if(!running) {
-            db.dbRemove();
             emit finished();
             return;
         }
@@ -187,7 +182,6 @@ void DuplicatesFinder::checkingFiles(QStringList list)
     }
     running = false;
     db.duplicateFind();
-    db.dbRemove();
     emit finished();
 }
 

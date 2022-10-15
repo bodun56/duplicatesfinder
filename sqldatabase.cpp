@@ -2,8 +2,6 @@
 
 SQLDataBase::SQLDataBase()
 {
-    QTemporaryFile tmp_fn;
-    dataFileName = tmp_fn.fileName();
     dbInit();
 }
 
@@ -11,7 +9,7 @@ void SQLDataBase::dbInit()
 {
     if(db.isOpen()) return;
     db = QSqlDatabase::addDatabase("QSQLITE");
-    db.setDatabaseName(dataFileName);
+    db.setDatabaseName(":memory:");
 
     if(!db.open()) qInfo() << "db is open FAIL";
 
@@ -51,14 +49,6 @@ void SQLDataBase::insertData(FileInfo data)
         qInfo() << query.lastError().text();
         qInfo() << query.lastQuery();
     }
-}
-
-void SQLDataBase::dbRemove()
-{
-    return;
-    db.close();
-    db.removeDatabase(dataFileName);
-
 }
 
 void SQLDataBase::duplicateFind()

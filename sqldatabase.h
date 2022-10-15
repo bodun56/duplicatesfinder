@@ -18,13 +18,11 @@ public:
     ~SQLDataBase();
     void create_DB();   //создание баз
     void insertData(FileInfo data);
-    void dbRemove();
     void duplicateFind();
     void setOnlyFiles(bool val);
 
 
 private:
-    QString dataFileName = "data";
     QSqlDatabase db;
     QSqlQuery query;
     bool onlyFiles;
