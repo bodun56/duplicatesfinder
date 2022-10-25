@@ -697,6 +697,11 @@ void MainWindow::on_actionEn_triggered()
     translateUpdate("en");
 }
 
+void MainWindow::on_actionIt_triggered()
+{
+    translateUpdate("it");
+}
+
 
 void MainWindow::on_cbOnlyFiles_stateChanged(int arg1)
 {
@@ -705,3 +710,5 @@ void MainWindow::on_cbOnlyFiles_stateChanged(int arg1)
     if(arg1) ui->pbStartFind->setText(tr("Search files"));
     else ui->pbStartFind->setText(tr("Search duplicates"));
 }
+
+

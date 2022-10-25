@@ -242,6 +242,7 @@
      </property>
      <addaction name="actionRu"/>
      <addaction name="actionEn"/>
+     <addaction name="actionIt"/>
     </widget>
     <addaction name="menuUser_colors_row"/>
     <addaction name="menuChange_language"/>
@@ -307,6 +308,11 @@
   <action name="actionEn">
    <property name="text">
     <string>En</string>
+   </property>
+  </action>
+  <action name="actionIt">
+   <property name="text">
+    <string>It</string>
    </property>
   </action>
  </widget>

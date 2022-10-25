@@ -123,59 +123,64 @@
         <translation>Изменить язык</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="252"/>
+        <location filename="mainwindow.ui" line="253"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="264"/>
+        <location filename="mainwindow.ui" line="265"/>
         <source>Set color 1</source>
         <translation>Задать цвет 1</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="269"/>
+        <location filename="mainwindow.ui" line="270"/>
         <source>Set color 2</source>
         <translation>Задать цвет 2</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="274"/>
+        <location filename="mainwindow.ui" line="275"/>
         <source>Set dels color</source>
         <translation>Задать цвет удалённых строк</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="279"/>
+        <location filename="mainwindow.ui" line="280"/>
         <source>Save duplicate list</source>
         <translation>Сохранить список дубликатов</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="284"/>
+        <location filename="mainwindow.ui" line="285"/>
         <source>Defaults color</source>
         <translation>Цвета по умолчанию</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="289"/>
+        <location filename="mainwindow.ui" line="290"/>
         <source>About Qt</source>
         <translation>О Qt</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="294"/>
+        <location filename="mainwindow.ui" line="295"/>
         <source>About program</source>
         <translation>О программе</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="299"/>
+        <location filename="mainwindow.ui" line="300"/>
         <source>Changelog</source>
         <translation>История изменений</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="304"/>
+        <location filename="mainwindow.ui" line="305"/>
         <source>Ru</source>
         <translation>Русский</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="309"/>
+        <location filename="mainwindow.ui" line="310"/>
         <source>En</source>
         <translation>Английский</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="315"/>
+        <source>It</source>
+        <translation>Итальянский</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="42"/>
@@ -184,9 +189,9 @@
     </message>
     <message>
         <location filename="mainwindow.cpp" line="43"/>
-        <location filename="mainwindow.cpp" line="144"/>
-        <location filename="mainwindow.cpp" line="161"/>
-        <location filename="mainwindow.cpp" line="707"/>
+        <location filename="mainwindow.cpp" line="146"/>
+        <location filename="mainwindow.cpp" line="163"/>
+        <location filename="mainwindow.cpp" line="711"/>
         <source>Search duplicates</source>
         <translation>Поиск дубликатов</translation>
     </message>
@@ -211,22 +216,22 @@
         <translation>Пример: .jpg .png</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="685"/>
+        <location filename="mainwindow.cpp" line="684"/>
         <source>All files</source>
         <translation>Все файлы</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="686"/>
+        <location filename="mainwindow.cpp" line="685"/>
         <source>Images</source>
         <translation>Изображения</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="687"/>
+        <location filename="mainwindow.cpp" line="686"/>
         <source>Video</source>
         <translation>Видео</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="688"/>
+        <location filename="mainwindow.cpp" line="687"/>
         <source>Audio</source>
         <translation>Аудио</translation>
     </message>
@@ -252,248 +257,248 @@
         <translation>Запущен поиск</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="132"/>
+        <location filename="mainwindow.cpp" line="133"/>
         <source>Stop</source>
         <translation>Остановить</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="143"/>
-        <location filename="mainwindow.cpp" line="160"/>
-        <location filename="mainwindow.cpp" line="706"/>
+        <location filename="mainwindow.cpp" line="145"/>
+        <location filename="mainwindow.cpp" line="162"/>
+        <location filename="mainwindow.cpp" line="710"/>
         <source>Search files</source>
         <translation>Поиск файлов</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="146"/>
-        <location filename="mainwindow.cpp" line="166"/>
+        <location filename="mainwindow.cpp" line="148"/>
+        <location filename="mainwindow.cpp" line="168"/>
         <source>Stopped</source>
         <translation>Остановлено</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="168"/>
+        <location filename="mainwindow.cpp" line="170"/>
         <source>Stopped. Fined files: </source>
         <translation>Остановлено. Найдено файлов: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="169"/>
+        <location filename="mainwindow.cpp" line="171"/>
         <source>Stopped. Fined duplicates: </source>
         <translation>Остановлено. Найдено дубликатов: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="173"/>
+        <location filename="mainwindow.cpp" line="175"/>
         <source>Files not fined</source>
         <translation>Файлы не найдены</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="174"/>
+        <location filename="mainwindow.cpp" line="176"/>
         <source>Duplicates not fined</source>
         <translation>Дубликаты не найдены</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="177"/>
+        <location filename="mainwindow.cpp" line="179"/>
         <source>Finished. Fined files: </source>
         <translation>Завершено. Найдено файлов: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="178"/>
+        <location filename="mainwindow.cpp" line="180"/>
         <source>Finished. Fined duplicates: </source>
         <translation>Завершено. Найдено дубликатов: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="234"/>
+        <location filename="mainwindow.cpp" line="233"/>
         <source>Fined files: </source>
         <translation>Найдено файлов: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="235"/>
+        <location filename="mainwindow.cpp" line="234"/>
         <source>Fined duplicates: </source>
         <oldsource>Fiden duplicates: </oldsource>
         <translation>Дубликатов найдено: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="241"/>
-        <location filename="mainwindow.cpp" line="563"/>
-        <location filename="mainwindow.cpp" line="629"/>
+        <location filename="mainwindow.cpp" line="240"/>
+        <location filename="mainwindow.cpp" line="562"/>
+        <location filename="mainwindow.cpp" line="628"/>
         <source>Processed files: </source>
         <translation>Обработано файлов: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="241"/>
+        <location filename="mainwindow.cpp" line="240"/>
         <source> from </source>
         <translation> из </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="346"/>
+        <location filename="mainwindow.cpp" line="345"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="400"/>
+        <location filename="mainwindow.cpp" line="399"/>
         <source>Text csv (*.csv);;Text file (*.txt)</source>
         <translation>Текст csv (*.csv);;Text file (*.txt)</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="408"/>
-        <location filename="mainwindow.cpp" line="411"/>
+        <location filename="mainwindow.cpp" line="407"/>
+        <location filename="mainwindow.cpp" line="410"/>
         <source>Text csv (*.csv)</source>
         <translation>Текст csv (*.csv)</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="408"/>
+        <location filename="mainwindow.cpp" line="407"/>
         <source>Path ;	</source>
         <translation>Каталог файла ;	</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="408"/>
+        <location filename="mainwindow.cpp" line="407"/>
         <source>File name ;	 </source>
         <translation>Имя файла ;	 </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="408"/>
+        <location filename="mainwindow.cpp" line="407"/>
         <source>Size ;	 </source>
         <translation>Размер ;	 </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="408"/>
+        <location filename="mainwindow.cpp" line="407"/>
         <source>Date ;	 </source>
         <translation>Дата ;	 </translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="15"/>
         <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="408"/>
-        <location filename="mainwindow.cpp" line="680"/>
+        <location filename="mainwindow.cpp" line="407"/>
+        <location filename="mainwindow.cpp" line="679"/>
         <source>Hash</source>
         <translation>Хеш</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="412"/>
+        <location filename="mainwindow.cpp" line="411"/>
         <source>Text file (*.txt)</source>
         <translation>Текстовый файл (*.txt)</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="443"/>
+        <location filename="mainwindow.cpp" line="442"/>
         <source>Do not use this symbol: </source>
         <translation>Нельзя использовать символ: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="500"/>
+        <location filename="mainwindow.cpp" line="499"/>
         <source>Preparation: </source>
         <translation>Подготовка: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="516"/>
+        <location filename="mainwindow.cpp" line="515"/>
         <source>About</source>
         <translation>О программе</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="517"/>
+        <location filename="mainwindow.cpp" line="516"/>
         <source>Program version: </source>
         <translation>Версия программы: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="518"/>
+        <location filename="mainwindow.cpp" line="517"/>
         <source>A simple duplicate file search program for Linux and Windows</source>
         <translation>Простая программая поиска дубликатов для Linux и Windows</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="519"/>
+        <location filename="mainwindow.cpp" line="518"/>
         <source>Author: BoDun &lt; bodun56@ya.ru &gt;</source>
         <translation>Автор: BoDun &lt; bodun56@ya.ru &gt;</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="532"/>
-        <location filename="mainwindow.cpp" line="584"/>
+        <location filename="mainwindow.cpp" line="531"/>
+        <location filename="mainwindow.cpp" line="583"/>
         <source>Attention</source>
         <translation>Внимание</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="533"/>
+        <location filename="mainwindow.cpp" line="532"/>
         <source>Files to delete are marked: </source>
         <translation>Файлов для удаления отмечено: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="533"/>
+        <location filename="mainwindow.cpp" line="532"/>
         <source>Delete them?</source>
         <translation>Удалить их?</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="557"/>
+        <location filename="mainwindow.cpp" line="556"/>
         <source>(deleted) </source>
         <translation>(удалено) </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="560"/>
+        <location filename="mainwindow.cpp" line="559"/>
         <source>Deleted files: </source>
         <translation>Удалено файлов: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="579"/>
+        <location filename="mainwindow.cpp" line="578"/>
         <source>Where to transfer</source>
         <translation>Куда переместить</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="585"/>
+        <location filename="mainwindow.cpp" line="584"/>
         <source>Files to move are marked: </source>
         <translation>Файлов для перемещения отмечено: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="585"/>
+        <location filename="mainwindow.cpp" line="584"/>
         <source>Moving them to </source>
         <translation>Переместить в </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="623"/>
+        <location filename="mainwindow.cpp" line="622"/>
         <source>(Moved) </source>
         <translation>(Перемещено) </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="626"/>
+        <location filename="mainwindow.cpp" line="625"/>
         <source>Moved files: </source>
         <translation>Перемещено файлов: </translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="398"/>
+        <location filename="mainwindow.cpp" line="397"/>
         <source>Save File</source>
         <translation>Сохранить файл</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="517"/>
+        <location filename="mainwindow.cpp" line="516"/>
         <source>Duplicate Finder</source>
         <translation>Duplicate Finder</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="15"/>
         <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="680"/>
+        <location filename="mainwindow.cpp" line="679"/>
         <source>File path</source>
         <translation>Путь файла</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="15"/>
         <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="680"/>
+        <location filename="mainwindow.cpp" line="679"/>
         <source>File name</source>
         <translation>Имя файла</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="15"/>
         <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="680"/>
+        <location filename="mainwindow.cpp" line="679"/>
         <source>Size</source>
         <translation>Размер</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="15"/>
         <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="680"/>
+        <location filename="mainwindow.cpp" line="679"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="15"/>
         <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="680"/>
+        <location filename="mainwindow.cpp" line="679"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>

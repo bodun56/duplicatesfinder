@@ -89,6 +89,8 @@ private slots:
 
     void on_cbOnlyFiles_stateChanged(int arg1);
 
+    void on_actionIt_triggered();
+
 private:
     Ui::MainWindow *ui;
 

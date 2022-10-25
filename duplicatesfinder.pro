@@ -48,6 +48,7 @@ else: unix: {
 
 TRANSLATIONS += Lang_ru.ts
 TRANSLATIONS += Lang_en.ts
+TRANSLATIONS += Lang_it.ts
 
 CODECFORSRC     = UTF-8
 

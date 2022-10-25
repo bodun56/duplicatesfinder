@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_US">
+<TS version="2.1" language="it_IT">
 <context>
     <name>FormChangeLog</name>
     <message>
         <location filename="formchangelog.ui" line="26"/>
         <source>История изменений</source>
-        <translation>Change log</translation>
+        <translation>Registro modifiche</translation>
     </message>
 </context>
 <context>
@@ -19,17 +19,17 @@
     <message>
         <location filename="mainwindow.ui" line="35"/>
         <source>Select path find</source>
-        <translation>Select path to search</translation>
+        <translation>Selezionare il percorso per la ricerca</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="41"/>
         <source>Select path</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona percorso</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="51"/>
         <source>path find</source>
-        <translation>path to search</translation>
+        <translation>percorso per la ricerca</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="64"/>
@@ -39,53 +39,52 @@
     <message>
         <location filename="mainwindow.ui" line="67"/>
         <source>Only file name</source>
-        <oldsource>Only files</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Solo il nome del file</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="90"/>
         <source>Start find</source>
-        <translation>Start finding</translation>
+        <translation>Inizia la ricerca</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="93"/>
         <source>Find duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Trova duplicati</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="112"/>
         <source>Exclude mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Escludi maschera</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="115"/>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>Escludere</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="134"/>
         <source>Mask files</source>
-        <translation>File masks</translation>
+        <translation>Maschere file</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="141"/>
         <source>Mask files, separated by space</source>
-        <translation>File masks, separated by space</translation>
+        <translation>Maschere di file, separate dallo spazio</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="144"/>
         <source>Example: *.jpg *.png file.txt</source>
-        <translation type="unfinished"></translation>
+        <translation>Esempio: *.jpg *.png file.txt</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="166"/>
         <source>File types</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipi di file</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="192"/>
         <source>Start delete checked files</source>
-        <translation>Start deleting checked files</translation>
+        <translation>Inizia a eliminare i file contrassegnati</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="195"/>
@@ -146,7 +145,7 @@
     <message>
         <location filename="mainwindow.ui" line="285"/>
         <source>Defaults color</source>
-        <translation>Default colors</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="290"/>
@@ -166,17 +165,60 @@
     <message>
         <location filename="mainwindow.ui" line="305"/>
         <source>Ru</source>
-        <translation>Russian</translation>
+        <translation>Russo</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="310"/>
         <source>En</source>
-        <translation>English</translation>
+        <translation>Inglese</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="315"/>
         <source>It</source>
-        <translation>Italian</translation>
+        <translation type="unfinished">Italiano</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="679"/>
+        <source>File path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="679"/>
+        <source>File name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="679"/>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="679"/>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="407"/>
+        <location filename="mainwindow.cpp" line="679"/>
+        <source>Hash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="62"/>
+        <location filename="mainwindow.cpp" line="679"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="42"/>
@@ -209,26 +251,6 @@
     <message>
         <location filename="mainwindow.cpp" line="49"/>
         <source>Example: .jpg .png</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.cpp" line="684"/>
-        <source>All files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.cpp" line="685"/>
-        <source>Images</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.cpp" line="686"/>
-        <source>Video</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.cpp" line="687"/>
-        <source>Audio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -273,43 +295,42 @@
     <message>
         <location filename="mainwindow.cpp" line="170"/>
         <source>Stopped. Fined files: </source>
-        <translation>Stopped. Found files: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="171"/>
         <source>Stopped. Fined duplicates: </source>
-        <translation>Stopped. Found duplicates: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="175"/>
         <source>Files not fined</source>
-        <translation>Files not found</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="176"/>
         <source>Duplicates not fined</source>
-        <translation>No duplicates found</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="179"/>
         <source>Finished. Fined files: </source>
-        <translation>Finished. Found files: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="180"/>
         <source>Finished. Fined duplicates: </source>
-        <translation>Finished. Found duplicates: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="233"/>
         <source>Fined files: </source>
-        <translation>Found files: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="234"/>
         <source>Fined duplicates: </source>
-        <oldsource>Fiden duplicates: </oldsource>
-        <translation>Found duplicates: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="240"/>
@@ -326,6 +347,11 @@
     <message>
         <location filename="mainwindow.cpp" line="345"/>
         <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="397"/>
+        <source>Save File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -360,14 +386,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="15"/>
-        <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="407"/>
-        <location filename="mainwindow.cpp" line="679"/>
-        <source>Hash</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="mainwindow.cpp" line="411"/>
         <source>Text file (*.txt)</source>
         <translation type="unfinished"></translation>
@@ -385,6 +403,11 @@
     <message>
         <location filename="mainwindow.cpp" line="515"/>
         <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="516"/>
+        <source>Duplicate Finder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -454,48 +477,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="397"/>
-        <source>Save File</source>
+        <location filename="mainwindow.cpp" line="684"/>
+        <source>All files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="516"/>
-        <source>Duplicate Finder</source>
+        <location filename="mainwindow.cpp" line="685"/>
+        <source>Images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="15"/>
-        <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="679"/>
-        <source>File path</source>
+        <location filename="mainwindow.cpp" line="686"/>
+        <source>Video</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="15"/>
-        <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="679"/>
-        <source>File name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.cpp" line="15"/>
-        <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="679"/>
-        <source>Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.cpp" line="15"/>
-        <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="679"/>
-        <source>Date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mainwindow.cpp" line="15"/>
-        <location filename="mainwindow.cpp" line="62"/>
-        <location filename="mainwindow.cpp" line="679"/>
-        <source>Delete</source>
+        <location filename="mainwindow.cpp" line="687"/>
+        <source>Audio</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
