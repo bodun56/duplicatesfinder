@@ -6,7 +6,7 @@
     <message>
         <location filename="formchangelog.ui" line="26"/>
         <source>История изменений</source>
-        <translation type="unfinished"></translation>
+        <translation>Change log</translation>
     </message>
 </context>
 <context>
@@ -19,7 +19,7 @@
     <message>
         <location filename="mainwindow.ui" line="35"/>
         <source>Select path find</source>
-        <translation type="unfinished"></translation>
+        <translation>Select path to search</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="41"/>
@@ -29,7 +29,7 @@
     <message>
         <location filename="mainwindow.ui" line="51"/>
         <source>path find</source>
-        <translation type="unfinished"></translation>
+        <translation>path to search</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="64"/>
@@ -45,7 +45,7 @@
     <message>
         <location filename="mainwindow.ui" line="90"/>
         <source>Start find</source>
-        <translation type="unfinished"></translation>
+        <translation>Start finding</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="93"/>
@@ -65,12 +65,12 @@
     <message>
         <location filename="mainwindow.ui" line="134"/>
         <source>Mask files</source>
-        <translation type="unfinished"></translation>
+        <translation>File masks</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="141"/>
         <source>Mask files, separated by space</source>
-        <translation type="unfinished"></translation>
+        <translation>File masks, separated by space</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="144"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="mainwindow.ui" line="192"/>
         <source>Start delete checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Start deleting checked files</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="195"/>
@@ -146,7 +146,7 @@
     <message>
         <location filename="mainwindow.ui" line="284"/>
         <source>Defaults color</source>
-        <translation type="unfinished"></translation>
+        <translation>Default colors</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="289"/>
@@ -268,43 +268,43 @@
     <message>
         <location filename="mainwindow.cpp" line="168"/>
         <source>Stopped. Fined files: </source>
-        <translation type="unfinished"></translation>
+        <translation>Stopped. Found files: </translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="169"/>
         <source>Stopped. Fined duplicates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Stopped. Found duplicates: </translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="173"/>
         <source>Files not fined</source>
-        <translation type="unfinished"></translation>
+        <translation>Files not found</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="174"/>
         <source>Duplicates not fined</source>
-        <translation type="unfinished"></translation>
+        <translation>No duplicates found</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="177"/>
         <source>Finished. Fined files: </source>
-        <translation type="unfinished"></translation>
+        <translation>Finished. Found files: </translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="178"/>
         <source>Finished. Fined duplicates: </source>
-        <translation type="unfinished"></translation>
+        <translation>Finished. Found duplicates: </translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="234"/>
         <source>Fined files: </source>
-        <translation type="unfinished"></translation>
+        <translation>Found files: </translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="235"/>
         <source>Fined duplicates: </source>
         <oldsource>Fiden duplicates: </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Found duplicates: </translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="241"/>

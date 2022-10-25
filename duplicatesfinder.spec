@@ -2,7 +2,7 @@
 
 Summary:	Duplicates Finder
 Name:		duplicatesfinder
-Version:	1.6.5
+Version:	1.6.6
 Release:	1
 License:	LGPL2.1
 Group:		File tools
