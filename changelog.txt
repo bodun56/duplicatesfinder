@@ -1,3 +1,6 @@
+1.6.7
++ Added Italian translation (thanks GvMariani)
+
 1.6.6
 + Fixed errors in English translation (thanks GvMariani)
 
