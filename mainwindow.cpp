@@ -408,7 +408,7 @@ void MainWindow::on_actionSave_duplicate_list_triggered()
         for(int i = 0;i<ui->tableWidget->rowCount();i++){
             for(int x = 1; x < ui->tableWidget->columnCount() - 1;x++){
                 if(filter == tr("Text csv (*.csv)")) stream << ui->tableWidget->item(i,x)->text() << " ;\t ";
-                if(filter == tr("Text file (*.txt)")) stream << ui->tableWidget->item(i,x)->text() << " \t ";
+                else stream << ui->tableWidget->item(i,x)->text() << " \t ";
             }
             stream << "\r\n";
         }

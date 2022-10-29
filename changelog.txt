@@ -1,3 +1,6 @@
+1.6.8
++ Fixed saving in txt format (thanks algri14)
+
 1.6.7
 + Added Italian translation (thanks GvMariani)
 
